@@ -11,9 +11,6 @@
 
 ## 목록
 
-- [프로그래밍 책 추천](#%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%b1%85-%ec%b6%94%ec%b2%9c)
-- [범례](#%eb%b2%94%eb%a1%80)
-- [목록](#%eb%aa%a9%eb%a1%9d)
 - [Agile](#agile)
 - [Algorithms](#algorithms)
 - [Architecture](#architecture)
