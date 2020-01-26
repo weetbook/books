@@ -56,11 +56,11 @@
 - [마이크로서비스 아키텍처 구축](books/architecture/9788968483417.md)
 - [도메인 주도 설계 (소프트웨어의 복잡성을 다루는 지혜)](books/architecture/9788992939850.md) - 🏛️
 - [도메인 주도 설계 구현](books/architecture/9788960778429.md)
-- [DDD Start!:도메인 주도 설계 구현과 핵심 개념 익히기](https://coupa.ng/bnd79n) - 🌟
-- [도메인 주도 설계란 무엇인가 (쉽고 간략하게 이해하는 DDD)](https://coupa.ng/bnd7Rk)
-- [도메인 주도 설계 핵심 (핵심을 간추린 비즈니스 중심의 설계로 소프트웨어 개발 프로젝트 성공하기)](https://coupa.ng/bnd71k)
-- [엔터프라이즈 애플리케이션 아키텍처 패턴 (엔터프라이즈 애플리케이션 구축을 위한 객체지향 설계의 원리와 기법)](https://coupa.ng/bnd8iX) - 🏛️
-- [클린 아키텍처 (소프트웨어 구조와 설계의 원칙)](https://coupa.ng/bnd8lT) - 🌟🏅
+- [DDD Start!:도메인 주도 설계 구현과 핵심 개념 익히기](books/architecture/9788993827446.md) - 🌟
+- [도메인 주도 설계란 무엇인가 (쉽고 간략하게 이해하는 DDD)](books/architecture/9788966260126.md)
+- [도메인 주도 설계 핵심 (핵심을 간추린 비즈니스 중심의 설계로 소프트웨어 개발 프로젝트 성공하기)](books/architecture/9791161750576.md)
+- [엔터프라이즈 애플리케이션 아키텍처 패턴 (엔터프라이즈 애플리케이션 구축을 위한 객체지향 설계의 원리와 기법)](books/architecture/9791158390174.md) - 🏛️
+- [클린 아키텍처 (소프트웨어 구조와 설계의 원칙)](books/architecture/9788966262472.md) - 🌟🏅
 
 ## BackEnd Development
 
