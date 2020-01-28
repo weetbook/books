@@ -13,6 +13,9 @@
 
 ## 목록
 
+- [프로그래밍 책 추천](#%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%b1%85-%ec%b6%94%ec%b2%9c)
+- [범례](#%eb%b2%94%eb%a1%80)
+- [목록](#%eb%aa%a9%eb%a1%9d)
 - [Agile](#agile)
 - [Algorithms](#algorithms)
 - [Architecture](#architecture)
@@ -64,8 +67,8 @@
 
 ## BackEnd Development
 
-- [RESTful Web API (웹 API를 위한 모범 전략 가이드)](https://coupa.ng/bnd8or)
-- [웹 앱 API 개발을 위한 GraphQL](https://coupa.ng/bnd8vO)
+- [RESTful Web API (웹 API를 위한 모범 전략 가이드)](books/backend-development/9788966261635.md)
+- [웹 앱 API 개발을 위한 GraphQL](books/backend-development/9788966262533.md)
 
 ### Java
 
